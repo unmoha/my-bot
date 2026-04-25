@@ -1,0 +1,3 @@
+telethon
+feedparser
+python-dotenv
